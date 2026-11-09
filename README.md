@@ -36,5 +36,6 @@ The objective of this project is to create a weekly branch insurance performance
 - **Documentation & Deployment**: Documented project methodology, formatted repository files, and published the final interactive dashboard for stakeholder review.
 
 ## Dashboard
- <a href="https://github.com/SaraswatiKaran/Insurance-Dashboard-or-Weekly-Branch-Insurance-Dashboard-/blob/main/Project_screenshot.png">View Dashboard</a>
+<img width="653" height="364" alt="Project_screenshot" src="https://github.com/user-attachments/assets/c380cbff-78f3-4b1d-a735-8ff979297d9b" />
+
 
