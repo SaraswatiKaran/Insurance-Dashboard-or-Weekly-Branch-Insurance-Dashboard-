@@ -38,4 +38,15 @@ The objective of this project is to create a weekly branch insurance performance
 ## Dashboard
 <img width="653" height="364" alt="Project_screenshot" src="https://github.com/user-attachments/assets/c380cbff-78f3-4b1d-a735-8ff979297d9b" />
 
+## Key Project Insights
 
+- **Target vs. Actual Achievement**: Identified variance across key verticals, highlighting strong achievement rates in New Business while pinpointing actionable gaps in Cross-Sell targets.
+- **Branch & Asset Distribution**: Discovered that specific branch types and high-tier asset categories contribute over 60% of total net income, pointing to key areas for strategic resource allocation.
+- **Meeting Efficiency**: Analyzed year-over-year meeting trends against actual policy conversions, revealing a direct positive correlation between structured client outreach and renewal rates.
+- **Pipeline & Funnel Bottlenecks**: Mapping the revenue stage funnel revealed key drop-off points between initial prospect meetings and final deal closures.
+
+## Final Conclusion
+
+- This **Insurance Analytics Dashboard** successfully bridges raw operational data and executive decision-making by consolidating fragmented metrics into a single, interactive source of truth. 
+
+- By leveraging **SQL** for robust backend data processing and **Tableau** for intuitive visualization, the project streamlines weekly reporting workflows, equips branch managers with real-time performance tracking, and enables data-driven strategic planning to boost cross-sell and renewal revenues.
