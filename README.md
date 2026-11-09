@@ -23,3 +23,18 @@ The objective of this project is to create a weekly branch insurance performance
 
  ## Dataset used
  - <a href="https://github.com/SaraswatiKaran/Insurance-Dashboard-or-Weekly-Branch-Insurance-Dashboard-/blob/main/Cleaned_insuranceproject_Data.xlsx">Dataset</a>
+ 
+- Dashboard Interaction <a href="https://github.com/SaraswatiKaran/Insurance-Dashboard-or-Weekly-Branch-Insurance-Dashboard-/blob/main/Project_screenshot.png">View Dashboard</a>
+
+## Process / Workflow Steps
+
+- **Requirement Gathering & Metric Identification**: Defined key business KPIs including weekly targets vs. actuals for New Business, Renewals, and Cross-Sell metrics across branch networks.
+- **Data Extraction & Transformation (SQL)**: Wrote optimized SQL queries to clean raw database tables, join multi-table schemas, and aggregate branch-level transaction records.
+- **Data Validation (MS Excel)**: Reconciled SQL output against source data using Excel pivot tables to ensure numerical accuracy before visualization.
+- **Dashboard Design & Data Modeling (Tableau)**: Connected cleaned data sources to Tableau, established data models, and created calculated fields for stage funnels and percentage achievements.
+- **Visual Analytics & Formatting**: Built dynamic visual charts—including KPI cards, bar charts for asset distribution, and stage funnels—and customized the layout for executive readability.
+- **Documentation & Deployment**: Documented project methodology, formatted repository files, and published the final interactive dashboard for stakeholder review.
+
+## Dashboard
+ <a href="https://github.com/SaraswatiKaran/Insurance-Dashboard-or-Weekly-Branch-Insurance-Dashboard-/blob/main/Project_screenshot.png">View Dashboard</a>
+
